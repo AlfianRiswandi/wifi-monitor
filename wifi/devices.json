@@ -1,0 +1,46 @@
+[
+    {
+        "ip": "192.168.0.1",
+        "mac": "ac:15:a2:57:a8:52",
+        "name": "Router TP-Link",
+        "vendor": "TP-Link Systems Inc",
+        "type": "\ud83d\udce1 Router",
+        "status": "ONLINE",
+        "status_class": "online",
+        "danger": "",
+        "last_seen": "2026-04-16 10:54:34.963188"
+    },
+    {
+        "ip": "192.168.0.100",
+        "mac": "b4:8c:9d:d3:b7:0f",
+        "name": "Laptop Admin",
+        "vendor": "AzureWave Technology Inc.",
+        "type": "\u2753 Unknown",
+        "status": "ONLINE",
+        "status_class": "online",
+        "danger": "",
+        "last_seen": "2026-04-16 10:54:34.963188"
+    },
+    {
+        "ip": "192.168.0.101",
+        "mac": "5a:c6:37:a1:43:9f",
+        "name": "Unknown Device",
+        "vendor": "Unknown Vendor",
+        "type": "\u2753 Unknown",
+        "status": "OFFLINE",
+        "status_class": "offline",
+        "danger": "danger",
+        "last_seen": "2026-04-16 10:53:46.246161"
+    },
+    {
+        "ip": "192.168.0.102",
+        "mac": "fa:fd:95:5d:fe:6b",
+        "name": "Unknown Device",
+        "vendor": "Unknown Vendor",
+        "type": "\u2753 Unknown",
+        "status": "OFFLINE",
+        "status_class": "offline",
+        "danger": "danger",
+        "last_seen": "2026-04-16 10:53:22.236108"
+    }
+]
